@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef, useCallback } from "react";
 import { fetchVideos } from "../services/fetchVideos";
-import VideoCard from "../components/Videocard";
+import VideoCard from "../components/VideoCard";
 import LoadingScreen from "../components/LoadingScreen";
 import ErrorScreen from "../components/ErrorScreen";
 import BottomNav from "../components/BottomNav";
