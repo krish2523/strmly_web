@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "title": "Startup Hustle",
+      "description": "Follow the grind of building a startup, one pitch at a time.",
+      "userName": "Gabar Singh",
+      "userImage": "/assets/user1.jpg",
+      "likes": 210000,
+      "comments": 1200,
+      "shares": 300,
+      "earnings": 1500,
+      "isPaid": true
+    },
+
+    {
+      "id": 3,
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "title": "TechTok",
+      "description": "Quick tech bytes to power your brain in 15 seconds or less!",
+      "userName": "TechieRani",
+      "userImage": "/assets/user3.jpg",
+      "likes": 94000,
+      "comments": 1000,
+      "shares": 180,
+      "earnings": 2100,
+      "isPaid": true
+    },
+    {
+      "id": 4,
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "title": "Mindful Minutes",
+      "description": "Find your zen with this daily moment of mindfulness.",
+      "userName": "CalmCoder",
+      "userImage": "/assets/user4.jpg",
+      "likes": 8700,
+      "comments": 340,
+      "shares": 80,
+      "earnings": 470,
+      "isPaid": false
+    },
+    {
+      "id": 5,
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "title": "Otaku Hour",
+      "description": "Dive into anime aesthetics and chill vibes.",
+      "userName": "SenpaiZone",
+      "userImage": "/assets/user5.jpg",
+      "likes": 66000,
+      "comments": 500,
+      "shares": 200,
+      "earnings": 1100,
+      "isPaid": true
+    },
+    {
+      "id": 6,
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "title": "Street Hoops",
+      "description": "Epic dunks and slick moves from the neighborhood court.",
+      "userName": "BallKing",
+      "userImage": "/assets/user6.jpg",
+      "likes": 132000,
+      "comments": 900,
+      "shares": 240,
+      "earnings": 1250,
+      "isPaid": false
+    }
+  ]
+  
