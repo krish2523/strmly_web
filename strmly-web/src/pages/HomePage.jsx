@@ -49,7 +49,8 @@ export default function HomePage() {
 
   return (
     <>
-      <div className="h-screen overflow-y-scroll snap-y snap-mandatory">
+      {/* pb-20 ensures BottomNav does not block last video */}
+      <div className="h-screen overflow-y-scroll snap-y snap-mandatory pb-20">
         {videos.map((video, index) => {
           const isLast = index === videos.length - 1;
           return (
@@ -60,6 +61,8 @@ export default function HomePage() {
         })}
         {loading && <LoadingScreen />}
       </div>
+
+      {/* Fixed bottom nav bar for mobile */}
       <BottomNav />
     </>
   );

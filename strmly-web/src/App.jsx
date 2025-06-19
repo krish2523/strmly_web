@@ -6,8 +6,7 @@ function App() {
   const [user, setUser] = useState(null);
 
   useEffect(() => {
-    // 🧼 Force logout on every refresh (for dev/testing)
-    localStorage.removeItem("userID");
+    // localStorage.removeItem("userID"); // Commented out for dev
   }, []);
 
   useEffect(() => {
