@@ -52,3 +52,4 @@ strmly-web/
 - Browser autoplay policies
 - UI layering and absolute positioning
 - Simulating APIs and optimistic UI updates
+### Deployed Link: ["https://strmly-web-krishs-projects-b175d017.vercel.app/"]
